@@ -1,4 +1,3 @@
-Hello! Welcome to the location of my fastfetch config file!
+Welcome to my dotfiles!
 
-If the title and first line weren't self explanitory enough, this is where I will keep my fastfetch configuration file.
-I'll be trying to keep up with pushing changes as much as possible, and feel free to take the file in it's entirety.
+This will be where I track, you guessed it, my dotfiles! Aka, my Linux config files. This is basically just me making an excuse to learn Git, GitHub and Linux while tracking my progress on all of it in one central hub. So, yeah, don't expect much of any of this to look professional.
